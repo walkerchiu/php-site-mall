@@ -4,10 +4,12 @@ namespace WalkerChiu\Site\Models\Entities;
 
 use WalkerChiu\Core\Models\Entities\LangTrait;
 use WalkerChiu\Core\Models\Entities\UuidEntity;
+use WalkerChiu\MorphImage\Models\Entities\ImageTrait;
 
 class Layout extends UuidEntity
 {
     use LangTrait;
+    use ImageTrait;
 
 
 
