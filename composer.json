@@ -18,6 +18,7 @@
         "walkerchiu/php-morph-category": "^1.0",
         "walkerchiu/php-morph-comment": "^1.0",
         "walkerchiu/php-morph-image": "^1.0",
+        "walkerchiu/php-morph-nav": "^1.0",
         "walkerchiu/php-role": "^1.0"
     },
     "suggest": {
