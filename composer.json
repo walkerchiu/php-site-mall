@@ -16,7 +16,6 @@
         "walkerchiu/php-currency": "^1.0",
         "walkerchiu/php-morph-address": "^1.0",
         "walkerchiu/php-morph-comment": "^1.0",
-        "walkerchiu/php-morph-image": "^1.0",
         "walkerchiu/php-morph-nav": "^1.0",
         "walkerchiu/php-role": "^1.0"
     },
@@ -30,6 +29,7 @@
         "walkerchiu/php-mall-wishlist": "^1.0",
         "walkerchiu/php-morph-board": "^1.0",
         "walkerchiu/php-morph-category": "^1.0",
+        "walkerchiu/php-morph-image": "^1.0",
         "walkerchiu/php-morph-link": "^1.0",
         "walkerchiu/php-morph-registration": "^1.0",
         "walkerchiu/php-newsletter": "^1.0",
